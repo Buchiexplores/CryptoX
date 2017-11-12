@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\.android\build-cache\7d0c0c9ebdb71b1a5bcfb8da7400a0d74d458212\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_45db5e25a7d77dda689e520aad5ede22bb560a68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\.android\build-cache\c36dc09ac295d01e0995c872050d0040758390a2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2edff3116ff6186c0413e92dc548158ea73b5a1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\.android\build-cache\d82062ad4bc1ad968f0dece15b5af290b10bfec0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_134e9e6fb681a1b44d189099a3c1c1e84d315bcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_2e583ca41b372c656445b5a84829043dce2a4bd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\.android\build-cache\9bc03898fd888a47ab39cbfa3bb8e6cdc2ff9b49\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b6cc2166e0ff73fc2ec854d451d71addda1c474\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b461566c507e1f3ad15ebe8a72b1c324f6a79b3e">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5133474e4990efc61bc0f22744c00ee3d95f1d00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_0defe2ccba7611a8d9843f4100f376b5fed7d9c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\.android\build-cache\70a0957bacd5e0c56d2b0399a0157447f842d22d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a94a0b49b8d9fcbf6289abb10c39604c5791add\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_0bc536ac2912a3cd39c9cf586451672bb40412da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\.android\build-cache\c10a065cdbc578e7d82964e5a1e6174dd06e0750\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7298b0e03c201169e91fe67a44f8f3ba36fb491f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\.android\build-cache\e9ae804fcdb86b390227d04e2c87f0f7b2c326d0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5036fdd9092110b831db4f0ad3d8df857cee5ebb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\.android\build-cache\3c590f7d9ac32c9ca4d091946f2ab1e3a0a61b37\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b8540833b0d7783bf60095eed586ba54e3bccfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.3.0_a3b0b4bffa2d5c35426cb4c5ff467f787eb77b70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cbed6cbaa6369f6af74bb9f2f5e9b2b2264f45d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_9326fc7eccd68d99adb9e365937810ce16db5100\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\.android\build-cache\a90631a156faec3a4254050877a97792c6dde9c9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3d7d5cb7b9ff76f4b8360a0a56b94c857cf00a3e">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65b5df15ef66b0755071684f8e1e881500f95e51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\.android\build-cache\a127ad1baaaf73ddf34a187bbd1bd96b477157ec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5dd425697378c7c5f2fb260e0f32d812bed9dff3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.8.0_db0896b9ef69e50c21eb96d1b334fbc4120dd627\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\.android\build-cache\c32cd925d0108c18a0169c747a3306e6a63ee9f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6fcf84140fa7d7eaa1b502aa0cf6afcd5acbd4f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\.android\build-cache\34fa8e80452dd6e3e4ab8026039c4433c276e2e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f15f3a8a6fcc26948985d50a62c85c710625594\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\.android\build-cache\e4f0734d919a522562f30184f9a5be21b95d5666\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dd1faa459248ee300421f6606e5e1411ceaaa89b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\.android\build-cache\5948b4f009d6292ff93a76dff2f7876e54bbca0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0275bd67528089aa969687abfa5b6340c71ad0a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.3.0_66324973350d60cafc03bd513acb884331cfc75b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\.android\build-cache\6e0c4671efe5797dc5b739f88689e961052f7bc4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_93e709834953bf141a26c9c2643a62b3052ef0b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\buchi\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\buchi\Documents\Android\CryptoX\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_edc74603a06a65a2c2dfe8c1a89cf6356378ca36\classes.dex" />
+    </item>
+
+</items>

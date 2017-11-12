@@ -1,0 +1,7 @@
+#Sun Nov 12 15:13:47 PST 2017
+base.0=C\:\\Users\\buchi\\Documents\\Android\\CryptoX\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5133474e4990efc61bc0f22744c00ee3d95f1d00
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\buchi\\Documents\\Android\\CryptoX\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cbed6cbaa6369f6af74bb9f2f5e9b2b2264f45d2\\classes.dex
+base.1=C\:\\Users\\buchi\\Documents\\Android\\CryptoX\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cbed6cbaa6369f6af74bb9f2f5e9b2b2264f45d2
+file.0=C\:\\Users\\buchi\\Documents\\Android\\CryptoX\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5133474e4990efc61bc0f22744c00ee3d95f1d00\\classes.dex

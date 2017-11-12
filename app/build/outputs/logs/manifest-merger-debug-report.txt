@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:8:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\buchi\.android\build-cache\70a0957bacd5e0c56d2b0399a0157447f842d22d\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\5948b4f009d6292ff93a76dff2f7876e54bbca0e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\6e0c4671efe5797dc5b739f88689e961052f7bc4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\a127ad1baaaf73ddf34a187bbd1bd96b477157ec\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\c36dc09ac295d01e0995c872050d0040758390a2\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\c10a065cdbc578e7d82964e5a1e6174dd06e0750\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\7d0c0c9ebdb71b1a5bcfb8da7400a0d74d458212\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\9bc03898fd888a47ab39cbfa3bb8e6cdc2ff9b49\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\3c590f7d9ac32c9ca4d091946f2ab1e3a0a61b37\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\e9ae804fcdb86b390227d04e2c87f0f7b2c326d0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\d82062ad4bc1ad968f0dece15b5af290b10bfec0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\a90631a156faec3a4254050877a97792c6dde9c9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\c32cd925d0108c18a0169c747a3306e6a63ee9f7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\34fa8e80452dd6e3e4ab8026039c4433c276e2e1\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:12:9-48
+	android:allowBackup
+		ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.buchi.cryptoX.activities.SplashScreenActivity
+ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:15:9-22:20
+	android:theme
+		ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:16:13-44
+	android:name
+		ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:15:19-83
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.buchi.cryptoX.activities.MainActivity
+ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:23:9-25:20
+	android:theme
+		ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:24:13-44
+	android:name
+		ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:23:19-75
+activity#com.buchi.cryptoX.activities.ConversionActivity
+ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:label
+		ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:28:13-59
+	android:parentActivityName
+		ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:29:13-83
+	android:theme
+		ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:30:13-44
+	android:name
+		ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:27:13-75
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:31:13-33:77
+	android:value
+		ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:33:17-74
+	android:name
+		ADDED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml:32:17-63
+uses-sdk
+INJECTED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\buchi\.android\build-cache\70a0957bacd5e0c56d2b0399a0157447f842d22d\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\5948b4f009d6292ff93a76dff2f7876e54bbca0e\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\6e0c4671efe5797dc5b739f88689e961052f7bc4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\a127ad1baaaf73ddf34a187bbd1bd96b477157ec\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\c36dc09ac295d01e0995c872050d0040758390a2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\c10a065cdbc578e7d82964e5a1e6174dd06e0750\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\7d0c0c9ebdb71b1a5bcfb8da7400a0d74d458212\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\9bc03898fd888a47ab39cbfa3bb8e6cdc2ff9b49\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\3c590f7d9ac32c9ca4d091946f2ab1e3a0a61b37\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\e9ae804fcdb86b390227d04e2c87f0f7b2c326d0\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\e4f0734d919a522562f30184f9a5be21b95d5666\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\d82062ad4bc1ad968f0dece15b5af290b10bfec0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\a90631a156faec3a4254050877a97792c6dde9c9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\c32cd925d0108c18a0169c747a3306e6a63ee9f7\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\34fa8e80452dd6e3e4ab8026039c4433c276e2e1\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\5948b4f009d6292ff93a76dff2f7876e54bbca0e\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\buchi\Documents\Android\CryptoX\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\5948b4f009d6292ff93a76dff2f7876e54bbca0e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\6e0c4671efe5797dc5b739f88689e961052f7bc4\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\a127ad1baaaf73ddf34a187bbd1bd96b477157ec\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\c36dc09ac295d01e0995c872050d0040758390a2\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\c10a065cdbc578e7d82964e5a1e6174dd06e0750\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\7d0c0c9ebdb71b1a5bcfb8da7400a0d74d458212\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\9bc03898fd888a47ab39cbfa3bb8e6cdc2ff9b49\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\3c590f7d9ac32c9ca4d091946f2ab1e3a0a61b37\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\e9ae804fcdb86b390227d04e2c87f0f7b2c326d0\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\e4f0734d919a522562f30184f9a5be21b95d5666\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\d82062ad4bc1ad968f0dece15b5af290b10bfec0\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\a90631a156faec3a4254050877a97792c6dde9c9\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\c32cd925d0108c18a0169c747a3306e6a63ee9f7\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\34fa8e80452dd6e3e4ab8026039c4433c276e2e1\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\5948b4f009d6292ff93a76dff2f7876e54bbca0e\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\buchi\.android\build-cache\5948b4f009d6292ff93a76dff2f7876e54bbca0e\output\AndroidManifest.xml:26:9-47
